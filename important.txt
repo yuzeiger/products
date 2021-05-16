@@ -1,0 +1,500 @@
+http://www.bj.cmbchina.com/bjtransweb/tsyw_web/dfgz_main.jsp 工资单
+http://10.20.26.175/mantisbt/login_page.php?return=%2Fmantisbt%2Fview_all_bug_page.php   新mantis 
+一季微光    @xcar2015
+巴啦   123456
+http://wiki.xcar.com.cn/pages/viewpage.action?pageId=10262411 周报提交地址
+http://newcartest.xcar.com.cn/doc/newcarbook/index.html 线上文档地址
+http://newcartest.xcar.com.cn/doc/tools/rewrite.php 
+
+http://xcms.xcar.com.cn/newcar/newadmin/index.php  （newcar新后台）
+http://xcms.xcar.com.cn/newcar/admin_1/sys_login.php  （newcar老后台）
+http://tools.xcar.com.cn/ip2city/fun_ip_area.php?ip=110.241.54.112，111.161.46.224
+
+http://newcartest.xcar.com.cn/auto/comm/pinglun.php?uid=8167152 评论查询
+
+---------------------------------------------------------------------------------------------------------------------
+
+<<<<<<<<<<<<<<专题相关：
+二、专题记录后台：
+https://backend.xcar.com.cn/xbackend1/apps/topic_admin/xcar_topic_users_jilu/list.php
+    https://backend.xcar.com.cn/xbackend1/apps/topic_admin/xcar_topic_users_jilu/login.php
+    username：yu.jie
+    pwd：2020@topicabc
+三、CMS服务器,
+    IP：10.52.50.21
+    path：/export/home/www/data/edit_template/9656/8399/data/form
+    帐号：nobbsuser
+pwd：xizV8I63
+pwd: V!2tsCw7wB6zn3
+
+12645 / 13433
+12644 / 13432
+
+大转盘：     13433/11978/data/form/circleDraw/          对应的wiki:    http://wiki.xcar.com.cn/pages/viewpage.action?pageId=12394107
+大转盘2：    13432/11979/data/form/circleDraw        
+
+
+DIY专题后台: http://t.xcar.com.cn/index.php/manage/login/index
+			yujie
+			yujie123
+div后台查看专题列表：
+http://t.xcar.com.cn/index.php/topicManage/LeavingCapital/siginlist?topic_id=1533
+
+zt.xcar.com.cn  对应 ip 10.52.10.131,10.52.10.132
+
+广告线索收集后台：http://topic.xcar.com.cn/201801/hafotest/bindex/index.php
+魔图：ad_name---zxcvbnm1
+秒杀车：ssyhd11---xcar_2019!@#321
+车型评选：cx2016---zxcvbnm1
+
+https://activityapi.xcar.com.cn/badmin/home   
+yu.jie    123456
+
+ 一般账号密码
+广告线索收集后台：http://topic.xcar.com.cn/201801/hafotest/bindex/index.php
+魔图：ad_name---zxcvbnm1
+秒杀车：ssyhd11---xcar_2019!@#321
+车型评选：cx2016---zxcvbnm1
+后台超管：账号密码 
+ administrat
+ xcar_2121!@#3211
+
+魔图接口文档：http://wiki.xcar.com.cn/pages/viewpage.action?pageId=11616455
+
+专题相关>>>>>>>>>>>>>
+---------------------------------------------------------------------------------------------------------------------
+
+
+说真的相关信息 后台地址
+http://newcaradmin.xcar.com.cn/index.php?r=reputation/RpaLogin/index
+
+http://xpms.xcar.com.cn/new-appdbs/index.php
+
+用户名和密码:
+'username' => 'gcardbmanage',
+'password' => 'L3xH-4G2',
+
+
+ALTER TABLE motor_pic_info MODIFY img_group varchar(200);
+新版说真的线上数据库
+
+IP: 10.15.201.187  端口: 3306  review主库.    端口: 3307 从库.    版本5.5.37 
+ 
+'username' => 'gcardbmanage',
+'password' => 'L3xH-4G2',
+
+新版说真的测服   主 10.15.203.203;  3412;   从 3307
+'username' => 'gcardbmanage',
+'password' => 'L3xH-4G2',
+phpmyadmin  地址 http://xpms.xcar.com.cn/newcar/
+
+手动同步
+
+~/rsync.sh /newcar/auto/protected/modules/newcar/models/Gallery.php [43同步]
+
+新的   User: nobbsuser   Pass: xizV8I63   202 git root  iwnLxiR1wq_dnC
+bbsuser  WRkq53f9
+nobbsuser  xizV8I63
+nobbsuser  7kbc_jH3HR
+
+
+老车型库后台
+zhj
+zhj_xcar@2015
+yu.jie
+yujie@2016
+
+
+CMS 从库地址
+dahliasdb1.xcar.com.cns:3306
+xcardbmanage
+Sx1j$!LdH
+
+
+线上rewrite目录  /opt/openresty/nginx/conf/rewrite
+
+
+后台和数据库均为线上，没有测试地址
+
+后台地址：
+http://backend.xcar.com.cn/xbackend1/login/ 
+
+
+用户名：胡怡俊
+密码：123abc
+
+后台服务器：
+ip:118.67.114.76
+目录：/export/home/www/xbackend1/
+
+老口碑线上数据库：
+http://xpms.xcar.com.cn/new-appdbs/index.php
+appdb2.xcar.com.cn:3308(koubei)
+user:xcardbmanage
+pass:Sx1j$!LdH
+
+老口碑用户表数据库
+$xcar_config_db["CrazyDance"]["host"] = "appdb2.xcar.com.cn:3306";
+$xcar_config_db["CrazyDance"]["user"] = "xcardbmanage";
+$xcar_config_db["CrazyDance"]["pass"] = "Sx1j$!LdH";
+老口碑就一个库  10.15.201.122:3308
+
+
+newcar线上数据库
+http://xpms.xcar.com.cn/new-appdbs/index.php
+http://xpms.xcar.com.cn/new-appdbs/
+10.15.201.131:3306 
+//'username' => 'gcardbmanage',
+//'password' => 'L3xH-4G2',
+从库 10.15.203.35:3306
+
+
+口碑测试库
+http://10.15.206.203/testdb/   
+10.15.206.203，user:xcardbmanage，pass:1q2w3e4r
+mysql:host=appsdb1.xcar.com.cn;port=3306;dbname=gocar
+gcardbmanage   L3xH-4G2
+SOAP服务器
+10.15.201.74
+10.15.201.76
+BBS_API_new_bbs_list_542_29,2,5,18,61_3_create_0
+
+邮箱密码 @xcar_YJ_2016   bangong 密码 yj123###
+nobbsuser  7kbc_jH3HR
+
+
+?cache=flush_  清缓存
+
+
+
+SELECT m_e_battery_sizes,m_pedm
+FROM  `gcar_model_energy_params` 
+WHERE 1 
+AND mid
+IN ( 24911, 25349, 25351, 25352, 25908, 26943, 26944, 26945, 26946 ) ;
+
+26615,26614,26616,26613,26612,26610
+
+
+
+kb_com_oil
+kb_effect
+kb_serise_dangwei
+kb_serise_detail
+kb_serise_pailiang
+kb_serise_result
+kb_serise_score
+kb_serise_score_history
+kb_txt
+
+
+http://newcar.xcar.com.cn/photo/s5823_3/1738016.htm 
+http://a.xcar.com.cn/photo/5823-3/1738016-1.html?zoneclick=100847 
+
+
+
+10.15.201.131:3306 newcar线上数据库ip
+
+
+http://v.qq.com/cover/l/l3u9fhcv0tnks50.html?vid=v00152o5n0i&ptag=tips.xw&ADUIN=1074803485&ADSESSION=1422250765&ADTAG=CLIENT.QQ.5371_.0&ADPUBNO=26422
+
+
+
+CInlineValidator
+北京市朝阳区十里堡北区炫特嘉园一号楼底商链家地产
+
+
+
+
+
+
+
+
+【爱卡监控地址】
+http://mon.xcar-inc.com/index.php/login?return_url=http://mon.xcar-inc.com/index.php/lp_web/index
+http://mon.xcar.com.cn/index.php/login?return_url=http://mon.xcar.com.cn/index.php
+
+http://10.20.28.101:8090/pages/viewpage.action?pageId=1016815  yu.jie14 123123
+
+用户名：dev 密码：Dev^HZwD&5g@m6
+
+http://user.oneapm.com/pages/v2/home
+zhu.hongjun@xcar.com.cn
+zhj888666
+
+
+
+
+
+接口管理平台
+http://testxcms.xcar.com.cn/doc/index.php?m=Home&c=Item&a=index 
+
+
+
+
+nohup /opt/php5/bin/php
+
+
+
+
+
+
+
+
+rewrite ^/m([0-9]+)/review.htm$ /auto/index.php?r=newcar/KouBei/KouBeiMIndex&mid=$1 last;
+
+
+
+
+
+insert into (rid,has_best,has_worst,has_appearance,has_inner,has_space,has_comfort,has_fuel,has_power,has_control,has_quality,has_maintenance,has_otherdesc,has_awd,has_chargetime,has_child) values ({$val['rid']},{$val['uid']},
+{$val['pbid']},{$val['bid']},{$val['pserid']},{$val['serid']},{$val['mid']},{$val['year']},{$val['car_type']},'{$val['auto_type']}',{$val['electric_type']},{$val['hybrid_type']},{$val['first_rid']},{$val['first_rid_year']},{$val['repu_star']},{$val['thumbup']},{$val['create_time']},{$val['update_time']},{$val['status']},{$val['is_avg']},
+{$val['reject_fid']},{$val['reject_sid']},{$val['is_old']},{$val['t_time']},{$val['is_show']},{$val['edit_uid']},{$val['is_grasp']},{$val['source']})";
+
+75oldadmin svn://10.15.201.200:8000/xcms/newcar
+newadmin200 svn://10.15.201.200:8000/xcms/newcar
+
+43    svn://10.15.201.200:8000/newcar/
+newcar测试  svn://10.15.201.200:10000/newcar/
+二手车  svn://10.15.201.200:10000/used2
+SVN账号密码 yu.jie yj123
+各位：
+新的VPN连接方式和账号如下，请大伙第一次登陆后及时修改密码
+
+
+https://118.67.127.158
+
+      
+于洁         yu.jie                yj#123123
+
+
+
+http://gitlab.xcar.com.cn       
+Git 账号
+yu.jie14@xcar.com.cn
+yujie123
+
+myxcar账号密码 yuzeiger yujie123
+
+
+UPDATE rp_model_collect_pool SET pserid = 3632 WHERE serid = 7561;
+
+听云监控  邮箱  YU.JIE14@xcar.com.cn   密码 Yj@12341234
+
+
+http://newcarapi.xcar.com.cn/newcarapi/listAllApis.php
+
+
+
+您好，openVpn您的VPN动态验证密钥为：
+ZMLUTUW6UCVVKXY5SHDCAEGAKY
+
+
+http://xcms.xcar.com.cn/  图库后台传图的地址   于洁 yujie_123  
+
+
+
+
+
+
+'connectionString' => 'mysql:host=10.20.28.121;port=3306;dbname=xcar_motor',
+'emulatePrepare' => true,
+'username' => 'xcar_motor_sdb',
+'password' => 'iW9jSsOmI-Ak',
+
+
+http://jenkins.xcar.com.cn
+
+yu.jie14
+
+yj@xcar2017
+
+爱卖车测试账号  zhang.junchuan  GFzjc@1992.
+经管后台测试账号  liuzhimin    lzm@xcar2016
+
+yunying.qiandan
+yunying1!
+jicai.qiandan
+jicai1!123
+
+
+经销商测试机   nobbsuser     xizV8I63
+经销商线上后台 账号 liuzhimin  lzm@xcar2016
+
+http://mpa.xcar.com.cn/ 线上数据库管理工具
+
+
+上线新流程图：  http://wiki.xcar.com.cn/pages/viewpage.action?pageId=7523610
+
+jumpserver:
+  Hi, 于洁
+        您的用户名： yu.jie14
+        您的权限： 普通用户
+        您的web登录密码： W1G68pnGml8OdQIP
+        您的ssh密钥文件密码： aEa_bfsbZUybAlxR
+    
+        密钥下载地址： https://jumpserver.xcar.com.cn/juser/key/down/?uuid=b9aafbdfc07b49748c62e3f50c29d0b4
+        说明： 请登陆跳板机后台下载密钥, 然后使用密钥登陆跳板机！
+
+		
+		账号：review  密码：Hf6p64T1EelJwglWwN dsn：10.20.53.11:3000
+		账号：xcar_motor 密码：G6LhUxVhTa2xFL06pA dsn：10.20.53.12:3002
+
+
+
+
+http://xapi.xcar.com.cn/   微服务接口管理平台   yu.jie14   yj123123   AK1234ak@#$
+http://kxapi-dev.xcar.com.cn/index.php/auth/login   开发微服务后台地址
+
+微服务  rancher  https://10.20.55.161:3443/login
+
+微服务  监控    http://kxapi.xcar.com.cn/index.php/auth/login
+
+gocar库 开发环境
+
+10.20.54.14:4001
+xcar_newcar_mdb:winMKwmIt1Fk
+xcar_newcar_sdb:grhpsKJNG8zG
+
+口碑库 开发环境
+
+10.20.54.13:4000
+
+xcar_newcar_mdb：winMKwmIt1Fk
+xcar_newcar_sdb：grhpsKJNG8zG
+
+口碑库  测试环境
+
+账号：review  密码：Hf6p64T1EelJwglWwN dsn：10.20.53.11:3000
+
+摩托车库  测试环境
+
+账号：xcar_motor 密码：G6LhUxVhTa2xFL06pA dsn：10.20.53.12:3002
+
+
+摩托车开发库     10.20.54.11：4002 用户：rd_admin 密码：d0UUk96FsBgLnWsx
+
+开发环境
+
+申请的测试库的只读账号
+
+xcar_newcar_sdb:k6IulW5E0PtB
+
+10.20.53.11:3001
+
+https://server.bonree.com  xcar__yu.jie14  wALN22jpEuaWD1cSYLsU
+
+
+
+
+https://user.ipip.net/login.php?r=https%3A%2F%2Fuser.ipip.net%2Findex.php
+idc@xcar.com.cn
+9LhMBI8rndEEZvrG10CW
+
+微信号：sarah-m7
+姓名：孟繁花
+职务：商务
+手机：18600363560
+
+
+
+
+
+
+newcar.xcar.com.cn
+10.15.201.49, 10.15.201.48, 10.15.201.50, 10.15.201.100,
+10.15.201.51, 10.15.201.43, 10.15.201.60
+newcaradmin.xcar.com.cn 10.15.201.117
+xsoap1.xcar.com.cn  10.15.201.74,  10.15.201.76
+
+motoradmin.xcar.com.cn  10.15.205.204 
+used.xcar.com.cn        10.15.201.229,10.15.201.219
+newcarapi.xcar.com.cn   10.15.205.101 10.15.205.102
+
+
+
+微服务调用密钥:
+newcar
+8a210e63aec792233db069fd651c6264
+
+
+
+CREATE TABLE `rp_spider` (
+  `id` int(10) NOT NULL AUTO_INCREMENT,
+  `url` varchar(200) DEFAULT '',
+  `first_time` int(10) DEFAULT '' COMMENT '发帖时间',
+  `repu_best` text COMMENT '最满意',
+  `repu_worst` text COMMENT '最不满意',
+  `repu_space` text COMMENT '空间',
+  `repu_power` text COMMENT '动力',
+  `repu_control` text COMMENT '操控',
+  `repu_oil` text COMMENT '油耗',
+  `repu_comfort` text COMMENT '舒适',
+  `repu_appearance` text COMMENT '外观',
+  `repu_inner` text COMMENT '内饰',
+  `repu_quality` text COMMENT '性价比',
+  `car_id` varchar(100) DEFAULT '' COMMENT '车型名',
+  `car_address` varchar(255) DEFAULT '' COMMENT '购车地',
+  `car_dealer` varchar(255) DEFAULT '' COMMENT '购车经销商',
+  `car_time` int(10) DEFAULT '' COMMENT '购车时间',
+  `car_price` float DEFAULT '' COMMENT '购车价格',
+  `fuel_consumption` int(11) DEFAULT NULL COMMENT '当前油耗',
+  `milage` int(11) DEFAULT '' COMMENT '当前里程',
+  `space` smallint(6) DEFAULT '' COMMENT '空间分',
+  `power` smallint(6) DEFAULT '' COMMENT '动力分',
+  `control` smallint(6) DEFAULT '' COMMENT '操控分',
+  `oil` smallint(6) DEFAULT '' COMMENT '油耗分',
+  `comfort` smallint(6) DEFAULT '' COMMENT '舒适分',
+  `appearance` smallint(6) DEFAULT '' COMMENT '外观分',
+  `theinner` smallint(6) DEFAULT '' COMMENT '内饰分',
+  `quality` smallint(6) DEFAULT '' COMMENT '性价比分',
+  `car_aim` varchar(200) DEFAULT '' COMMENT '购车目的',
+  `source` varchar(50) DEFAULT '',
+  `status` tinyint(4) DEFAULT '0' COMMENT '状态0未编辑1已编辑',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDb AUTO_INCREMENT=48 DEFAULT CHARSET=latin1
+
+
+https://open.baidu.com/#
+用户名；爱卡百家号
+密码：Aikaqiche_2017
+
+xgma.xcar.com.cn   
+闫龙飞 10-26 14:22:27
+yan.longfei
+ylf@2019
+
+
+
+/opt/php7/bin/php --ini
+
+/opt/openresty/nginx/sbin/nginx -s reload
+/opt/php7/sbin/php.service restart
+
+广告    admin !daicyD123
+
+
+用户名：devlog
+密码：TestYWtLqMb1JxdeVloG
+登录任意一台开发机/测试机，通过ssh直接链接即可使用。
+ssh devlog@10.20.53.77
+
+user: xcar-test
+passwd: 8YI7ql21XM3YRj0_z
+
+北森：   Yj345^&$
+
+
+
+归去来兮辞
+!@#$QWER1234qwer
+
+
+邮箱  0916Yj***
+
+
+
+
+
+
+
